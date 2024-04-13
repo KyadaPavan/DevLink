@@ -80,7 +80,7 @@ DevLink is licensed under the MIT License. See the [LICENSE](LICENSE) file for d
 
 ## Contact
 
-If you have any questions, suggestions, or issues regarding DevLink, feel free to contact us at [kyadapavan0016@gmail.com].
+If you have any questions, suggestions, or issues regarding DevLink, feel free to contact us at kyadapavan0016@gmail.com.
 
 Let's collaborate and grow together!
 
