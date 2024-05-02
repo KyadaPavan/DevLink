@@ -32,7 +32,7 @@ export function RoomCard({room}: {room: Room}){
             rel="noopener noreferrer"
             >
               <GithubIcon />
-              Github Rroject
+              Github Project
             </Link>
           )
         }
