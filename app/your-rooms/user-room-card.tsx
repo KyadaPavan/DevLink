@@ -43,7 +43,7 @@ export function UserRoomCard({ room }: { room: Room }) {
             rel="noopener noreferrer"
           >
             <GithubIcon />
-            Github Rroject
+            Github Project
           </Link>
         )}
       </CardContent>
